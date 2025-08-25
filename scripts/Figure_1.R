@@ -5,7 +5,7 @@ library(patchwork)
 library(Cairo)
 
 # Leer y preparar datos
-df <- read.csv("Figure_1.csv", sep = ";")
+df <- read.csv("data/Figure_1.csv", sep = ";")
 df$Abundance <- as.numeric(gsub(",", ".", df$Abundance))
 
 df <- df %>%
@@ -110,12 +110,13 @@ final_plot <- top_row / bottom_row +
 print(final_plot)
 
 # Guardar como PDF
-CairoPDF("Figure_1B.pdf", width = 15, height = 10, family = "Times New Roman")
+CairoPDF("output/Figure_1B.pdf", width = 15, height = 10, family = "Times New Roman")
 print(final_plot)
 dev.off()
 
 # Guardar como TIFF
-ggsave("Figure_1.tiff", plot = final_plot,
+ggsave("output/Figure_1.tiff", plot = final_plot,
        dpi = 600, width = 15, height = 10, units = "in",
        compression = "lzw", bg = "white")
+
 
