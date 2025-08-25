@@ -15,5 +15,15 @@ This repository contains input data (CSV) and R scripts used to generate figures
 ## Usage
 Run the scripts from the `scripts/` folder:
 ```R
-source("scripts/Figure1_bacteria_bars.R")
-source("scripts/Figure4_fungi_bars.R")
+source("scripts/Figure_1.R")
+source("scripts/Figure_2.R")
+source("scripts/Figure_3.R")
+source("scripts/Figure_4.R")
+source("scripts/Figure_5.R")
+source("scripts/Figure_6.R")
+source("scripts/Figure_7.R")
+source("scripts/Figure_8.R")
+source("scripts/Figure_9.R")
+source("scripts/Figure_10.R")
+source("scripts/Figure_11.R")
+source("scripts/Figure_12.R")
