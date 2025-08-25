@@ -4,7 +4,7 @@ This repository contains input data (CSV) and R scripts used to generate figures
 *From Soil to Grape: Exploring the Culturable Microbiome of Grapevines Across Organs, Management Systems, and Culture Media*.
 
 ## Structure
-- `data/`: Input CSV files (bacteria `_B`, fungi `_H`).
+- `data/`: Input CSV files.
 - `scripts/`: R scripts for generating the figures.
 - `output/`: Output figures (PDF and TIFF, 600 dpi).
 
