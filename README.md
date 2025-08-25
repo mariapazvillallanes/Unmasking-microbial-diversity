@@ -2,7 +2,7 @@
 
 This repository contains the data and R scripts used to generate the figures for the manuscript:
 
-**Villanueva-Llanes MP, Carbú M, Cordero-Bueso G. (2025) [Title of the article]. *Journal Name*.**
+**Villanueva-Llanes MP, Carbú M, Cordero-Bueso G. (2025) [From Soil  to Grape: Exploring the Culturable Microbiome of Grapevines Across Organs, Management Systems, and Culture Media]. *Journal Name*.**
 
 ---
 
