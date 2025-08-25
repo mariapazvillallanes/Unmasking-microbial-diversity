@@ -1,29 +1,34 @@
-# From Soil to Grape – Data and R scripts
+# Vineyard Microbiome Figures
 
-This repository contains input data (CSV) and R scripts used to generate figures of the manuscript  
-*From Soil to Grape: Exploring the Culturable Microbiome of Grapevines Across Organs, Management Systems, and Culture Media*.
+This repository contains the data and R scripts used to generate the figures for the manuscript:
+
+**Villanueva-Llanes MP, Carbú M, Cordero-Bueso G. (2025) [Title of the article]. *Journal Name*.**
+
+---
 
 ## Structure
-- `data/`: Input CSV files.
-- `scripts/`: R scripts for generating the figures.
-- `output/`: Output figures (PDF and TIFF, 600 dpi).
+
+- `data/` : Input CSV files.  
+- `scripts/` : R scripts for generating the figures.  
+- `output/` : Output figures (PDF and TIFF, 600 dpi).  
+
+---
 
 ## Requirements
-- R >= 4.0
-- R packages: tidyverse, RColorBrewer, patchwork, Cairo
 
-## Usage
-Run the scripts from the `scripts/` folder:
-```R
-source("scripts/Figure_1.R")
-source("scripts/Figure_2.R")
-source("scripts/Figure_3.R")
-source("scripts/Figure_4.R")
-source("scripts/Figure_5.R")
-source("scripts/Figure_6.R")
-source("scripts/Figure_7.R")
-source("scripts/Figure_8.R")
-source("scripts/Figure_9.R")
-source("scripts/Figure_10.R")
-source("scripts/Figure_11.R")
-source("scripts/Figure_12.R")
+- **R >= 4.0**
+
+### R packages
+The following R packages are required:  
+
+- **Data manipulation & plotting**: `tidyverse`, `ggplot2`, `dplyr`, `RColorBrewer`, `patchwork`  
+- **Graphics export & fonts**: `Cairo`, `extrafont`, `showtext`, `ggtext`  
+- **Ecological analysis**: `vegan`  
+- **Statistical annotations**: `ggsignif`  
+- **Specialized visualization**: `ComplexUpset`, `cowplot`, `pheatmap`  
+
+You can install them all with:  
+```r
+install.packages(c("tidyverse", "RColorBrewer", "patchwork", "Cairo",
+                   "extrafont", "showtext", "ggtext", "vegan",
+                   "ggsignif", "ComplexUpset", "cowplot", "pheatmap"))
