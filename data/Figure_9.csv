@@ -1,0 +1,26 @@
+Treatment;Ecosystem;Class;Abundance
+Commercial Domesticated;End;Gammaproteobacteria;44
+Commercial Domesticated;End;Actinomycetes;1
+Commercial Domesticated;End;Bacilli;4
+Commercial Domesticated;Epi;Actinomycetes;47
+Commercial Domesticated;Epi;Alphaproteobacteria;5
+Commercial Domesticated;Epi;Bacilli;182
+Commercial Domesticated;Epi;Gammaproteobacteria;28
+Natural Domesticated;Epi;Actinomycetes;42
+Natural Domesticated;Epi;Alphaproteobacteria;2
+Natural Domesticated;Epi;Bacilli;68
+Natural Domesticated;Epi;Betaproteobacteria;1
+Natural Domesticated;Epi;Gammaproteobacteria;16
+Commercial Wild;End;Actinomycetes;6
+Commercial Wild;End;Alphaproteobacteria;1
+Commercial Wild;End;Bacilli;6
+Commercial Wild;End;Gammaproteobacteria;24
+Commercial Wild;Epi;Actinomycetes;34
+Commercial Wild;Epi;Alphaproteobacteria;5
+Commercial Wild;Epi;Bacilli;33
+Commercial Wild;Epi;Gammaproteobacteria;17
+Commercial Wild;Epi;Sphingobacteriia;1
+Natural Wild;End;Gammaproteobacteria;7
+Natural Wild;Epi;Actinomycetes;1
+Natural Wild;Epi;Bacilli;1
+Natural Wild;Epi;Gammaproteobacteria;3

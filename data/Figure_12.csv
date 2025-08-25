@@ -1,0 +1,25 @@
+Treatment;Ecosystem;Class;Abundance
+Commercial Domesticated;End;Dothideomycetes;14
+Commercial Domesticated;End;Eurotiomycetes;18
+Commercial Domesticated;End;Leotiomycetes;3
+Commercial Domesticated;Epi;Dothideomycetes;180
+Commercial Domesticated;Epi;Eurotiomycetes;63
+Commercial Domesticated;Epi;Mortierellomycetes;2
+Commercial Domesticated;Epi;Mucoromycetes;2
+Commercial Domesticated;Epi;Mucoromycetes;5
+Commercial Domesticated;Epi;Sordariomycetes;16
+Commercial Wild;End;Dothideomycetes;20
+Commercial Wild;Epi;Dothideomycetes;121
+Commercial Wild;Epi;Eurotiomycetes;10
+Commercial Wild;Epi;Leotiomycetes;1
+Commercial Wild;Epi;Sordariomycetes;2
+Natural Domesticated;Epi;Dothideomycetes;104
+Natural Domesticated;Epi;Eurotiomycetes;14
+Natural Domesticated;Epi;Sordariomycetes;8
+Natural Domesticated;Epi;Xylonomycetes;1
+Natural Wild;End;Dothideomycetes;27
+Natural Wild;End;Eurotiomycetes;5
+Natural Wild;End;Sordariomycetes;5
+Natural Wild;Epi;Dothideomycetes;32
+Natural Wild;Epi;Eurotiomycetes;9
+Natural Wild;Epi;Sordariomycetes;3
