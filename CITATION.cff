@@ -1,19 +1,13 @@
 cff-version: 1.2.0
 message: "If you use this repository, please cite it as below."
-title: "From Soil to Grape: Exploring the Culturable Microbiome of Grapevines Across Organs, Management Systems, and Culture Media"
+title: "From Soil to Grape: Culturable Microbiome of Grapevines (Data and R scripts)"
 version: "1.0"
 authors:
   - family-names: Villanueva Llanes
     given-names: María Paz
-  - family-names: Carbú Espinosa de los Monteros
-    given-names: María
-  - family-names: Cantoral
-    given-names: Jesús Manuel
-  - family-names: Cordero Bueso
-    given-names: Gustavo
 date-released: 2025-08-25
 repository-code: "https://github.com/mariapazvillallanes/From-Soil-to-Grape"
 license: "MIT"
 type: software
-abstract: "Repository containing raw CSV input files and R scripts for the analysis presented in 'From Soil to Grape: Exploring the Culturable Microbiome of Grapevines Across Organs, Management Systems, and Culture Media'."
-notes: Manuscript in preparation.
+abstract: "Repository containing raw CSV input files and R scripts for generating the figures of the study 'From Soil to Grape: Exploring the Culturable Microbiome of Grapevines Across Organs, Management Systems, and Culture Media'."
+notes: "Manuscript in preparation."
