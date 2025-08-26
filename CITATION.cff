@@ -7,10 +7,10 @@ authors:
     given-names: María Paz
   - family-names: Carbú Espinosa de los Monteros
     given-names: María
-  - family-names: Cordero Bueso
-    given-names: Gustavo
   - family-names: Cantoral
     given-names: Jesús Manuel
+  - family-names: Cordero Bueso
+    given-names: Gustavo
 date-released: 2025-08-25
 repository-code: "https://github.com/mariapazvillallanes/From-Soil-to-Grape"
 license: "MIT"
