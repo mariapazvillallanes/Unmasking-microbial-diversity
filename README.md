@@ -1,4 +1,6 @@
-# From Soil to Grape: Culturable Microbiome of Grapevines  
+# From Soil to Grape: Culturable Microbiome of  Grapevines (Data and R scripts)
+
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.16947382.svg)](https://doi.org/10.5281/zenodo.16947382)
 
 ## Structure
 - data/: Input CSV files.  
