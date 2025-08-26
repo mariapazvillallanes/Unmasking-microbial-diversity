@@ -1,6 +1,6 @@
 cff-version: 1.2.0
 message: "If you use this repository, please cite it as below."
-title: "From-Soil-to-Grape: Data and R scripts for culturable microbiome analyses"
+title: "From Soil to Grape: Exploring the Culturable Microbiome of Grapevines Across Organs, Management Systems, and Culture Media"
 version: "1.0"
 authors:
   - family-names: Villanueva Llanes
