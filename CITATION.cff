@@ -7,7 +7,8 @@ authors:
     given-names: María Paz
 date-released: 2025-08-25
 repository-code: "https://github.com/mariapazvillallanes/From-Soil-to-Grape"
+doi: "10.5281/zenodo.16947382"
 license: "MIT"
-type: software
-abstract: "Repository containing raw CSV input files and R scripts for generating the figures of the study 'From Soil to Grape: Exploring the Culturable Microbiome of Grapevines Across Organs, Management Systems, and Culture Media'."
+type: dataset
+abstract: "Repository containing raw CSV input files and R scripts for the analysis presented in 'From Soil to Grape: Exploring the Culturable Microbiome of Grapevines Across Organs, Management Systems, and Culture Media'."
 notes: "Manuscript in preparation."
