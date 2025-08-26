@@ -32,7 +32,7 @@ source("scripts/Figure_12.R")
 
 ## Citation
 If you use this repository, please cite:  
-Villanueva-Llanes MP, Carbú M, Cantoral, JM, Cordero-Bueso G. (in preparation). From Soil to Grape: Exploring the Culturable Microbiome of Grapevines Across Organs, Management Systems, and Culture Media.
+Villanueva-Llanes, M. P., Carbú Espinosa de los Monteros, M., Cantoral, J. M., & Cordero Bueso, G. (2025). From Soil to Grape: Culturable Microbiome of Grapevines (Data and R scripts) [Data set]. Zenodo. https://doi.org/10.5281/zenodo.16947382
 
 ## License
 This repository is licensed under the MIT License.
