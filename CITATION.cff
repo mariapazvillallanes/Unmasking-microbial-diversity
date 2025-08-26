@@ -12,5 +12,8 @@ authors:
   - family-names: Cantoral
     given-names: Jesús Manuel
 date-released: 2025-08-25
-repository-code: "https://github.com/mariapazvillanlalles/From-Soil-to-Grape"
+repository-code: "https://github.com/mariapazvillallanes/From-Soil-to-Grape"
+license: "MIT"
+type: software
+abstract: "Repository containing raw CSV input files and R scripts for the analysis presented in 'From Soil to Grape: Exploring the Culturable Microbiome of Grapevines Across Organs, Management Systems, and Culture Media'."
 notes: Manuscript in preparation.
