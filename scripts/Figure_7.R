@@ -36,7 +36,7 @@ fmt_p <- function(p) {
 # ============================================================
 # ===== Panel a) Shannon por Treatment (Figure_7a.csv)
 # ============================================================
-raw_data_a <- read.csv("data/Figure_7a.csv", sep = ";", dec = ",", check.names = FALSE)
+raw_data_a <- read.csv("data/Figure_7a-b.csv", sep = ";", dec = ",", check.names = FALSE)
 names(raw_data_a) <- gsub("\\s+", ".", trimws(names(raw_data_a)))
 
 if (!"Relative.Abundance" %in% names(raw_data_a)) {
@@ -70,7 +70,7 @@ panel_a <- strip_grid(p_a)
 # ============================================================
 # ===== Panel b) Shannon por órgano (Figure_7b.csv)
 # ============================================================
-raw_data_b <- read.csv("data/Figure_7b.csv", sep = ";", dec = ",", check.names = FALSE)
+raw_data_b <- read.csv("data/Figure_7a-b.csv", sep = ";", dec = ",", check.names = FALSE)
 raw_data_b$Abundance <- as.numeric(gsub(",", ".", raw_data_b$Abundance))
 
 df_b <- raw_data_b %>%
@@ -184,3 +184,4 @@ print(fig_final); dev.off()
 
 pdf("output/Figure_7.pdf", width=12, height=10)
 print(fig_final); dev.off()
+
