@@ -1,6 +1,6 @@
 cff-version: 1.2.0
 message: "If you use this repository, please cite it as below."
-title: "From Soil to Grape: Culturable Microbiome of Grapevines (Data and R scripts)"
+title: "Unmasking microbial diversity: the critical role of culture media and niche in capturing the grapevine microbiome (Data and R scripts)"
 version: "1.0"
 authors:
   - family-names: Villanueva Llanes
